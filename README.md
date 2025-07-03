@@ -3,6 +3,8 @@
 ## 系统概述
 
 这是一个基于YOLOv8的榴莲种类和成熟度检测系统，具有图形用户界面，支持图片、视频、文件夹批量检测和实时摄像头检测。
+![image](https://github.com/user-attachments/assets/0ef8da66-5d6b-4a14-bca3-ea368463a704)
+
 
 ## 数据集获取
 
