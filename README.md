@@ -10,8 +10,8 @@
 
 本项目使用的数据集可通过 Roboflow 平台获取：
 
-- 榴莲成熟度数据集：[Durian Maturity Dataset (Roboflow)](https://app.roboflow.com/wjy-tis6h/durian_mutruity/1)
-- 榴莲种类数据集：[Durian Type Dataset (Roboflow)](https://app.roboflow.com/wjy-tis6h/deteksi-jenis-durian-wzs8i/1)
+- 榴莲成熟度数据集：[Durian Maturity Dataset (Roboflow)](https://universe.roboflow.com/wjy-tis6h/durian_mutruity)
+- 榴莲种类数据集：[Durian Type Dataset (Roboflow)](https://universe.roboflow.com/skripsi-xtfuk/deteksi-jenis-durian)
 
 请访问上述链接，注册或登录 Roboflow 账号后即可下载数据集。建议下载 YOLO 格式的数据，并放置到合适的训练目录下。
 
@@ -212,9 +212,6 @@ python test_gui.py
 - 改进用户界面和用户体验
 - 添加错误处理和资源管理
 
-## 许可证
-
-本项目采用MIT许可证，详见LICENSE文件。
 
 ## 贡献
 
